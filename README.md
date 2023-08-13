@@ -1,2 +1,0 @@
-# Quiz com React.js 
- 
